@@ -1,5 +1,11 @@
 # Learning Resources
 
+## Entrepreneurship
+
+| Name | Description | Link |
+|------|-------------|------|
+| Startup School | Free online program for founders by Y Combinator | https://www.startupschool.org/ |
+
 ## Programming and Web Development
 
 | Name | Description | Link |
@@ -14,6 +20,7 @@
 | Exercism | Programming practice with mentoring | https://exercism.org/ |
 | HackerRank | Programming challenges and interview prep | https://www.hackerrank.com/ |
 | CodeCrafters | Advanced programming practical projects | https://app.codecrafters.io/catalog |
+| Globe Engineer Explorer | Interactive learning platform for software engineering | https://explorer.globe.engineer/ |
 
 ## Data Science and AI
 
@@ -37,6 +44,16 @@
 | Khan Academy | Free educational platform covering various subjects | https://khanacademy.org/ |
 | Pluralsight | Online training platform for technology professionals | https://www.pluralsight.com/product/skills |
 | Zero To Mastery | Online courses on various technology topics | https://academy.zerotomastery.io/?page=2 |
+| MasterClass | Online classes taught by world-renowned instructors | https://www.masterclass.com/ |
+| OpenClassrooms | Online education platform for vocational training | https://openclassrooms.com/ |
+| Coursera | Online courses from top universities and companies | https://www.coursera.org/ |
+| Skillshare | Online learning community for creative skills | https://www.skillshare.com/ |
+| Udemy | Global marketplace for learning and instruction | https://www.udemy.com/ |
+| Brilliant | Courses in math, science, and computer science | https://brilliant.org/ |
+| MIT OpenCourseWare | Free course materials from MIT | https://ocw.mit.edu/ |
+| FutureLearn | Online courses from universities and cultural institutions | https://www.futurelearn.com/ |
+| edX | Online courses from leading educational institutions | https://www.edx.org/ |
+| Maven | Cohort-based courses taught by experts | https://maven.com/ |
 
 ## Health and Wellness
 
