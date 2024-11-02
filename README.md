@@ -35,6 +35,8 @@
 |------|-------------|------|
 | PortSwigger | Web security training | https://portswigger.net/web-security |
 | Cyber Training by Seela | Cybersecurity training | https://cybertraining.seela.io/ |
+| TryHackMe | Cybersecurity training | https://tryhackme.com/ |
+
 
 ## General Learning Platforms
 
