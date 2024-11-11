@@ -5,6 +5,7 @@
 | Name | Description | Link |
 |------|-------------|------|
 | Startup School | Free online program for founders by Y Combinator | https://www.startupschool.org/ |
+| EOS | French online community with lots of articles to help you out | https://www.eos-projets.fr/ |
 
 ## Programming and Web Development
 
