@@ -23,6 +23,12 @@
 | CodeCrafters | Advanced programming practical projects | https://app.codecrafters.io/catalog |
 | Globe Engineer Explorer | Interactive learning platform for software engineering | https://explorer.globe.engineer/ |
 
+## Design
+
+| Name | Description | Link |
+|------|-------------|------|
+| Uxcel | Learning UX design at your own rhythm | https://uxcel.com/ |
+
 ## Data Science and AI
 
 | Name | Description | Link |
