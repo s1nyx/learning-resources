@@ -35,6 +35,7 @@
 |------|-------------|------|
 | DataCamp | Data science and data analysis courses | https://www.datacamp.com/ |
 | DeepLearning.AI | Specialized courses in deep learning | https://www.deeplearning.ai/courses/ |
+| HuggingFace | The GitHub for AI | https://huggingface.co/learn |
 
 ## Cybersecurity
 
