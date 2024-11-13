@@ -28,6 +28,7 @@
 | Name | Description | Link |
 |------|-------------|------|
 | Uxcel | Learning UX design at your own rhythm | https://uxcel.com/ |
+| Law of UX | collection of best practices that designers can consider when building user interfaces | https://lawsofux.com/ |
 
 ## Data Science and AI
 
