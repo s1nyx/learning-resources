@@ -72,6 +72,12 @@
 |------|-------------|------|
 | WHO - Physical Activity | Information on physical activity by the World Health Organization | https://www.who.int/fr/news-room/fact-sheets/detail/physical-activity |
 
+# Problem Solving
+
+| Name | Description | Link |
+|------|-------------|------|
+| Untools | Tools for better thinking | https://untools.co/ |
+
 ## Specific Resources
 
 | Name | Description | Link |
