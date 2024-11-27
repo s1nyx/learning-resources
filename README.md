@@ -6,6 +6,7 @@
 |------|-------------|------|
 | Startup School | Free online program for founders by Y Combinator | https://www.startupschool.org/ |
 | EOS | French online community with lots of articles to help you out | https://www.eos-projets.fr/ |
+| Smallbets | Community of aspiring business owners, lots of classes to learn high-quality knowledge for business/tech/marketing/sales... | https://smallbets.com/ |
 
 ## Programming and Web Development
 
