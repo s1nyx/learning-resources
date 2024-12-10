@@ -24,6 +24,13 @@
 | CodeCrafters | Advanced programming practical projects | https://app.codecrafters.io/catalog |
 | Globe Engineer Explorer | Interactive learning platform for software engineering | https://explorer.globe.engineer/ |
 
+## DevOps / DevSecOps
+
+| Name | Description | Link |
+|------|-------------|------|
+| Blog of Stephane Robert (in French)| Learning DevOps, DevSecOps | https://blog.stephane-robert.info/docs/ |
+
+
 ## Design
 
 | Name | Description | Link |
