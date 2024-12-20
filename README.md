@@ -73,6 +73,7 @@
 | FutureLearn | Online courses from universities and cultural institutions | https://www.futurelearn.com/ |
 | edX | Online courses from leading educational institutions | https://www.edx.org/ |
 | Maven | Cohort-based courses taught by experts | https://maven.com/ |
+| Codecademy | Interactive learning platform for software engineering | https://www.codecademy.com/ |
 
 ## Health and Wellness
 
