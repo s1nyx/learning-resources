@@ -1,5 +1,11 @@
 # Learning Resources
 
+## Free books
+
+| Name | Description | Link |
+|------|-------------|------|
+| Internet Archive: Free books | A lot of old free books with high-quality content in it | https://archive.org/details/texts |
+
 ## Entrepreneurship
 
 | Name | Description | Link |
