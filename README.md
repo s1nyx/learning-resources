@@ -93,6 +93,16 @@
 |------|-------------|------|
 | Untools | Tools for better thinking | https://untools.co/ |
 
+## Environment, Ecology
+
+| Name | Description | Link |
+|------|-------------|------|
+| IPCC (Intergovernmental Panel on Climate Change) | Reports, synthesis report... regarding Climate Change  | https://www.ipcc.ch/ |
+| UICN - French Committee | Network of organizations and experts in UE for the conservation of nature in France | https://uicn.fr/ |
+| Public policies of the French Ministry of Ecology | Climate change impacts in France and abroad (popularized for the general public) | https://www.ecologie.gouv.fr/politiques-publiques/impacts-du-changement-climatique |
+| The Shift Project - Think Tank | French think tank regarding Climate change, the environment in general | https://theshiftproject.org/category/publications/rapports/ |
+| IDDRI - Think Tank | Independent policy research institute, identifies the conditions and proposes the tools to place substainable development at the heart of international relations and public/private policies | https://www.iddri.org/fr |
+
 ## Scientific Research
 
 | Name | Description | Link |
