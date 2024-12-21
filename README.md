@@ -93,6 +93,12 @@
 |------|-------------|------|
 | Untools | Tools for better thinking | https://untools.co/ |
 
+## Scientific Research
+
+| Name | Description | Link |
+|------|-------------|------|
+| Google Scholar | Search the web for scientific papers | https://scholar.google.com/ |
+
 ## Specific Resources
 
 | Name | Description | Link |
