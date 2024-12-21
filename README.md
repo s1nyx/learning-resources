@@ -99,6 +99,12 @@
 |------|-------------|------|
 | Google Scholar | Search the web for scientific papers | https://scholar.google.com/ |
 
+## Maths
+
+| Name | Description | Link |
+|------|-------------|------|
+| MathAcademy | AI-driven learning for math (the promess is to x4 learning time) | https://www.mathacademy.com/ |
+
 ## Specific Resources
 
 | Name | Description | Link |
