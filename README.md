@@ -6,6 +6,11 @@
 |------|-------------|------|
 | Internet Archive: Free books | A lot of old free books with high-quality content in it | https://archive.org/details/texts |
 
+## Blogs, Blogs-like
+| Name | Description | Link |
+|------|-------------|------|
+| NFX | Weekly insights for pre-seed and seed stage Founders, including fundraising tips, pitch decks, growth, hiring and more. | https://www.nfx.com/library |
+
 ## Entrepreneurship
 
 | Name | Description | Link |
