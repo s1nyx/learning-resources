@@ -105,6 +105,13 @@
 |------|-------------|------|
 | MathAcademy | AI-driven learning for math (the promess is to x4 learning time) | https://www.mathacademy.com/ |
 
+## How to learn
+
+| Name | Description | Link |
+|------|-------------|------|
+| Learn How to Learn| Efficient methods to actually learn fast anything, no BS | https://learnhowtolearn.org/ |
+| HowToHomeSchool | Deals with homeshooling | https://www.howtohomeschool.com/homeschool-advice |
+
 ## Specific Resources
 
 | Name | Description | Link |
