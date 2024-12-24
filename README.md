@@ -11,6 +11,7 @@
 |------|-------------|------|
 | NFX | Weekly insights for pre-seed and seed stage Founders, including fundraising tips, pitch decks, growth, hiring and more. | https://www.nfx.com/library |
 | StaffEng | Guides for reaching and succeeding at Staff-plus roles (in tech) | https://staffeng.com/guides/ |
+| Paul Graham | A lot of really interesting essays | https://www.paulgraham.com/articles.html | 
 
 ## Entrepreneurship
 
