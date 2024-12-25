@@ -137,6 +137,11 @@
 | Learn How to Learn| Efficient methods to actually learn fast anything, no BS | https://learnhowtolearn.org/ |
 | HowToHomeSchool | Deals with homeshooling | https://www.howtohomeschool.com/homeschool-advice |
 
+## DIY
+| Name | Description | Link |
+|------|-------------|------|
+| Instructables | community for people who like to make things with hardware | https://www.instructables.com/# |
+
 ## Specific Resources
 
 | Name | Description | Link |
