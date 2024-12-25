@@ -23,6 +23,12 @@
 | Smallbets | Community of aspiring business owners, lots of classes to learn high-quality knowledge for business/tech/marketing/sales... | https://smallbets.com/ |
 | Notion - Steve Jobs talks | List of Steve Jobs talks on the Internet | https://daedalium.notion.site/9580e045680f4ddc98eded7920fd4754?v=e837f0f0b2684c4bbaf4a818967ee1cf |
 
+## Marketing
+
+| Name | Description | Link |
+|------|-------------|------|
+| Acquisition.com | Very good lessons about sales, marketing, leads and offers | https://www.acquisition.com/training |
+
 ## Programming and Web Development
 
 | Name | Description | Link |
