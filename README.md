@@ -45,6 +45,12 @@
 | CodeCrafters | Advanced programming practical projects | https://app.codecrafters.io/catalog |
 | Globe Engineer Explorer | Interactive learning platform for software engineering | https://explorer.globe.engineer/ |
 
+## Making quality in Software Engineering
+| Name | Description | Link |
+|------|-------------|------|
+| Refactoring.guru | Learning about design patterns in programming | https://refactoring.guru/design-patterns/catalog |
+| Patterns.dev | Learning how to architect webapps | https://www.patterns.dev/#patterns |
+
 ## DevOps / DevSecOps
 
 | Name | Description | Link |
