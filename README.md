@@ -56,7 +56,7 @@
 | Name | Description | Link |
 |------|-------------|------|
 | Blog of Stephane Robert (in French)| Learning DevOps, DevSecOps | https://blog.stephane-robert.info/docs/ |
-
+| KodeKloud | Learning paths to prepare yourself for some certifications (Kubernetes, Azure, GCP, AWS...) | https://kodekloud.com/ |
 
 ## Design
 
